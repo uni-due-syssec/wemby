@@ -25,7 +25,7 @@ our ablation study demonstrates that Wemby outperforms current WebAssembly
 fuzzers. Specifically, Wemby achieves an average speed improvement of 232 times
 and delivers 46\% greater code coverage compared to the state-of-the-art.
 
-´´´bibtex
+```bibtex
 @ARTICLE{Draissi2025-vc,
   title        = {Wemby’s web: Hunting for Memory Corruption in {WebAssembly}},
   author       = {Draissi, Oussama and Cloosters, Tobias and Klein, David and
@@ -38,4 +38,4 @@ and delivers 46\% greater code coverage compared to the state-of-the-art.
   doi          = {10.1145/3728937},
   url          = {https://dl.acm.org/doi/10.1145/3728937},
 }
-´´´
+```
